@@ -1,0 +1,80 @@
+#star1 {
+    animation: kembangkempiss 10s infinite;
+}
+#star2 {
+    animation: kembangkempis 10s infinite;
+}
+#star3 {
+    animation: kembangkempis 10s infinite;
+}
+@keyframes kembangkempiss {
+    0% {
+
+    }
+    10% {
+        transform: scale(0.5)
+    }
+    20% {
+
+    }
+    30% {
+        transform: scale(1.2);
+    }
+    40% {
+
+    }
+    50% {
+        transform: scale(0.5)
+    }
+    60% {
+
+    }
+    70% {
+        transform: scale(1.2);
+    }
+    80% {
+
+    }
+    90% {
+        transform: scale(0.5)
+    }
+    100% {
+
+    }
+}
+@keyframes kembangkempis {
+    0% {
+
+    }
+    10% {
+        transform: scale(0.5)
+    }
+    20% {
+
+    }
+    30% {
+        transform: scale(1.5);
+    }
+    40% {
+
+    }
+    50% {
+        transform: scale(0.5)
+    }
+    60% {
+
+    }
+    70% {
+        transform: scale(1.5);
+    }
+    80% {
+
+    }
+    90% {
+        transform: scale(0.5)
+    }
+    100% {
+
+    }
+}
+
