@@ -136,7 +136,7 @@ body {
     }
 
 .up-down {
-    animation: turunnaik 6s infinite;
+    animation: turunnaik 10s infinite;
 }
 @keyframes turunnaik {
     25% {
