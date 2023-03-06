@@ -87,3 +87,8 @@ nav-menu a:hover:before {
     transform: scale(1);
 }
 
+.sticky {
+    background: #fff;
+    position: fixed;
+    z-index: 1000;
+}
