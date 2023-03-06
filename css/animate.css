@@ -119,3 +119,54 @@ body {
         color: #00E183;
     }
 }
+.up-down {
+    animation: turunnaik 6s infinite;
+}
+@keyframes turunnaik {
+    0% {
+        transform:translateY(3px);
+
+    }
+    50% {
+        transform: translateY(12px);
+    }
+    }
+    100% {
+        transform: translateY(3px);
+    }
+
+.up-down {
+    animation: turunnaik 6s infinite;
+}
+@keyframes turunnaik {
+    25% {
+        transform:translateY(10px);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+    75% {
+        transform:translateY(10px);
+    }
+    }
+    100% {
+        transform: translateY(-10px);
+    }    
+.down-up {
+    animation: naikturun 6s infinite;
+}
+@keyframes naikturun {
+        25% {
+            transform:translateY(-12px);
+    
+        }
+        50% {
+            transform: translateY(12px);
+        }
+        75% {
+            transform:translateY(-12px);
+        }
+        }
+        100% {
+            transform: translateY(12px);
+        }    
