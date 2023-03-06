@@ -81,3 +81,41 @@ body {
     }
 }
 
+#textan {
+    animation: effect 6s infinite;
+}
+@keyframes effect {
+    0% {
+        color: #62327D;
+    }
+    10% {
+        color: #00FFAB;  
+    }
+    20% {
+        color: #ED539C;
+    }
+    30% {
+        color: #3BE100;
+    }
+    40% {
+        color: #0009E1;
+    }
+    50% {
+        color: #E10000; 
+    }
+    60% {
+        color: #000000;
+    }
+    70% {
+        color: #E15F00;
+    }
+    80% {
+        color: #C2E100;
+    }
+    90% {
+        color: #E100BD;
+    }
+    100% {
+        color: #00E183;
+    }
+}
