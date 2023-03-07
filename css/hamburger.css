@@ -1,4 +1,6 @@
-
+* {
+    overflow-x: hidden;
+}
 .hamburger {
     position: absolute;
     top: 5em;
