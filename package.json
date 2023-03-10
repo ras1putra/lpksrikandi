@@ -1,15 +1,4 @@
 {
-  "name": "landing-page-project",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "build": "tailwindcss --output public",
-    "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "tailwindcss": "^3.2.7"
   }
